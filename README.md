@@ -42,3 +42,6 @@ The recommended stack for the project is
 * Read the [guidelines](./CONTRIBUTORS.md) before starting contributing or creating the project.
 * Follow the given [PR template](./PULL_REQUEST_TEMPLATE.md) to contribute to the project.
 
+## Gitter Community
+
+[Code It](https://gitter.im/iosdofficial/Code-It-ISOC19)
